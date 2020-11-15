@@ -1,4 +1,4 @@
-# fuse-genecounts-immunespace
+# fuse-server-immunespace
 `Usage:  docker run --rm -d --env GENE_ARGS="-group2 -a 'session|<my-key>'" fuse-genecounts-immunespace`
 
 This repo contains the source code to create a docker container for the following purpose:
